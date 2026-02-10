@@ -3,7 +3,7 @@ name: tutorial-generating
 description: Transform a folder of unnamed screenshots and a rough markdown draft into a polished, illustrated tutorial document. Use when the user has a set of screenshots (e.g., from Snipaste or other tools) with timestamp-based filenames and a brief markdown outline, and wants to produce a complete step-by-step instructional document with images renamed by content and inserted at appropriate positions. Triggers include "整理截图写文档", "screenshots to tutorial", "rename images and write guide", "把截图整理成教程", or when a folder of screenshots and a markdown draft are provided together.
 ---
 
-# Screenshot to Tutorial
+# Tutorial Generating
 
 将一组以时间戳命名的截图和一份粗略的 Markdown 草稿，转化为一份完整的、图文并茂的操作指导文档。自动完成截图内容识别、语义化重命名，以及文档结构补全与图片插入。
 
